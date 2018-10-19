@@ -1,6 +1,6 @@
 {
   "name": "sass-breakpoint",
-  "version": "2.0.1",
+  "version": "0.1.0",
   "description": "Zurb Foundation's Sass mixin to create and easily maintain your media query Sass mixin to create",
   "keywords": [
     "sass",
