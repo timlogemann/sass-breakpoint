@@ -1,0 +1,28 @@
+{
+  "name": "sass-breakpoint",
+  "version": "2.0.1",
+  "description": "Zurb Foundation's Sass mixin to create and easily maintain your media query Sass mixin to create",
+  "keywords": [
+    "sass",
+    "breakpoint",
+    "responsive",
+    "mediaquery",
+    "media query"
+  ],
+  "ignore": ["**/.*"],
+  "files": [
+    "_breakpoint.scss",
+    "README.md"
+  ],
+  "main": "_breakpoint.scss",
+  "homepage": "https://github.com/timlogemann/sass-breakpoint",
+  "bugs": {
+    "url": "https://github.com/timlogemann/sass-breakpoint/issues"
+  },
+  "license": "MIT",
+  "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/timlogemann/sass-breakpoint.git"
+  }
+}
